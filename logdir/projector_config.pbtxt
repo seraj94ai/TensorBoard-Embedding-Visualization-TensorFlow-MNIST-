@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "fmnist_embedding:0"
+  metadata_path: "C:\\Users\\seraj\\Desktop\\myapppython\\NUM_MNIST\\logdir\\metadata.tsv"
+  sprite {
+    image_path: "C:\\Users\\seraj\\Desktop\\myapppython\\NUM_MNIST\\logdir\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}

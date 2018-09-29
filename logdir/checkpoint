@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\seraj\\Desktop\\myapppython\\NUM_MNIST\\logdir\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\seraj\\Desktop\\myapppython\\NUM_MNIST\\logdir\\model.ckpt"
