@@ -2,7 +2,7 @@
 ### Embedding projector - visualization of high-dimensional data. Embedding Projector
 ### see my tutorial :
 
-[![Alt text for your video](https://img.youtube.com/vi/v=gDQfqRUyfBw/0.jpg)](https://www.youtube.com/watch?v=gDQfqRUyfBw)
+[![video tutorial ](https://img.youtube.com/vi/gDQfqRUyfBw/0.jpg)](https://www.youtube.com/watch?v=gDQfqRUyfBw)
 
 ### see other tutorials
 
